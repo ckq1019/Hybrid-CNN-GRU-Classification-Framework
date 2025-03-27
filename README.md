@@ -36,6 +36,11 @@
 
 3.预测效果可视化：通过绘制预测结果图，直观展示了 CNN-GRU 模型预测结果与真实结果基本一致，进一步验证了模型的有效性。
 
+![image](https://github.com/user-attachments/assets/7a46bf86-70c7-4e22-8643-19894e30bc32)
+
+![Uploading image.png…]()
+
+
 ![image](https://github.com/user-attachments/assets/ffc698a4-bb4a-4405-a651-302d53032c55)
 
 ![image](https://github.com/user-attachments/assets/e18384fc-e3b2-4ad7-9c46-67c43c5f2b41)
